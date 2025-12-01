@@ -1,0 +1,5 @@
+{
+  "name": "Mayday Lyrics Timeline",
+  "description": "An interactive chronological journey through Mayday's (五月天) discography, powered by Gemini to retrieve lyrics and song trivia.",
+  "requestFramePermissions": []
+}
